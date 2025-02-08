@@ -39,6 +39,17 @@ These projects are a reflection of **who I am, what I think about, and how I app
 - **[astro-tech-blog](https://github.com/gjohnhazel/astro-tech-blog):** A place for my thoughts on **tech, frameworks, and systems thinking**.
 - **[astro-blog](https://github.com/gjohnhazel/astro-blog):** A space for long-form writing, thoughts, and deep dives.  
 
+## 🛠️ Technologies & Tools  
+
+I specialize in building **scalable, automated, and efficient systems** across web development, cloud infrastructure, and business operations. Some key tools in my stack:  
+
+- **CMS & Web Development:** WordPress (ACF, PHP + Blade, JS, SCSS), Wix (Custom Dev)  
+- **Automation & AI Workflows:** Zapier, Python, AppleScript, APIs, AI-powered automation  
+- **Cloud & Hosting:** AWS, Google Cloud, Azure, DigitalOcean  
+- **Networking & IT:** Cisco, Ubiquiti, macOS, Linux, Windows, Synology  
+- **Project Management:** Asana, Kanban, Gantt, Agile, Miro, GTD  
+- **Sales & CRM:** Salesforce, Outreach, HubSpot, Yesware, GoHighLevel  
+- **...and a million more.** If it’s technical, I’ve probably worked with it.  
 
 ## 🤖 AI Tools I Love  
 
