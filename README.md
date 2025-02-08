@@ -27,8 +27,8 @@ I thrive at the intersection of **structured thinking, intuitive problem-solving
 These projects reflect my **love for AI, problem-solving, and system design**:  
 
 - **[AI API Utility](https://github.com/gjohnhazel/ai-api-utility):** AI-powered automation for smarter API interactions.  
-- **[StarBattleSolver](https://github.com/gjohnhazel/StarBattleSolver):** Interactive **constraint-solving for Star Battle puzzles**—thinking in patterns, applied.  
-- **[Explorations](https://github.com/gjohnhazel/explorations-jh):** A collection of **C++, AI, and knowledge automation** experiments.  
+- **[StarBattleSolver](https://github.com/gjohnhazel/StarBattleSolver):** Interactive constraint-solving for Star Battle puzzles—thinking in patterns, applied.  
+- **[Explorations](https://github.com/gjohnhazel/explorations-jh):** A collection of random experiments.  
 
 ## 📖 Learn More About Me  
 
